@@ -148,7 +148,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f479fe414f101784b9fc5c32f7ad49c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ReadonlyTest
-  readonlyField: 0
+  readonlyByDefault: 0
+  isReadonly: 1
+  readonlyByField: 0
+  readonlyByMethod: 0
 --- !u!4 &1723102098
 Transform:
   m_ObjectHideFlags: 0
