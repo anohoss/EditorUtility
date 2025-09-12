@@ -1,0 +1,14 @@
+# Unity
+src/EditorUtility/Library/
+src/EditorUtility/Temp/
+src/EditorUtility/obj/
+src/EditorUtility/Logs/
+src/EditorUtility/UserSettings/
+src/EditorUtility/*.csproj
+src/EditorUtility/*.sln
+
+# Visual Studio
+.vs/
+
+# Mac
+.DS_Store
