@@ -1,10 +1,10 @@
 {
     "name": "com.anoho.editor-utility",
-    "displayName": "EditorUtility",
+    "displayName": "Editor Utility",
     "author": {
         "name": "Anoho"
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "unity": "6000.2",
     "description": "Provides a set of utility class for UnityEditor.",
     "category": "Editor"
